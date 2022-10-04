@@ -1,1 +1,1 @@
-# golang-console-apps
+Simple GoLang Applications
