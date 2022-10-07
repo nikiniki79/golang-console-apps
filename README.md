@@ -1,1 +1,1 @@
-Simple GoLang Applications
+Simple Golang Applications
