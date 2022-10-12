@@ -1,1 +1,1 @@
-Simple Golang Applications
+<h3>Golang CLI Applications</h3>
