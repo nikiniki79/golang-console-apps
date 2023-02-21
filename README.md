@@ -1,1 +1,1 @@
-<h3>Golang CLI Applications</h3>
+Simple Golang console applications for practice purpose.
